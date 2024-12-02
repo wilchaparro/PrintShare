@@ -35,6 +35,12 @@ PrintShare es la única plataforma de impresión que convierte cada impresora en
 Imagen 1.
 ![Imagen Moda](https://raw.githubusercontent.com/wilchaparro/PrintShare/refs/heads/main/SharePrinterTTech_2.jpeg)
 
+Imagen 2.
+![Imagen Moda](https://raw.githubusercontent.com/wilchaparro/PrintShare/refs/heads/main/SharePrinterTTech_1.jpeg)
+
+Imagen 3.
+![Imagen Moda](https://raw.githubusercontent.com/wilchaparro/PrintShare/refs/heads/main/SharePrinterTTech_3.jpeg)
+
 ## 📣 Mensajes Publicitarios
 
 1. "PrintShare: Tu red de impresión inteligente, justo donde la necesitas."
