@@ -92,6 +92,16 @@ Imagen 3.
   - LinkedIn: Contenido profesional sobre los beneficios para negocios
   - Facebook/Twitter: Información detallada, publicaciones interactivas
 
+### Explicación de la Estrategia
+- **Objetivos de Lanzamiento :**
+  - Aumentar la notoriedad de la marca.
+  - Captar usuarios y propietarios de impresoras.
+    
+- **·	Tipos de contenido por plataforma:**
+  - Instagram/TikTok: Videos cortos, testimonios, sorteos.
+  - LinkedIn: Contenido profesional sobre los beneficios para negocios.
+  - Facebook/Twitter: Información detallada, publicaciones interactivas.
+
 ### Frecuencia y Enfoque
 - **Frecuencia**: Publicaciones diarias durante el primer mes para maximizar visibilidad
 - **Enfoque**:
