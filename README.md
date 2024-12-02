@@ -93,6 +93,8 @@ Imagen 3.
   - Facebook/Twitter: Información detallada, publicaciones interactivas
 
 ### Explicación de la Estrategia
+La estrategia se centra en crear expectativa, educar a la audiencia sobre el servicio y generar confianza.
+
 - **Objetivos de Lanzamiento :**
   - Aumentar la notoriedad de la marca.
   - Captar usuarios y propietarios de impresoras.
