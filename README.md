@@ -11,7 +11,7 @@
 
 ## 🎨 Logo
 
-<img src="https://raw.githubusercontent.com/wilchaparro/PrintShare/refs/heads/main/PrintShareLogo.jpeg?raw=true" width="50%"/>
+<img src="https://raw.githubusercontent.com/wilchaparro/PrintShare/refs/heads/main/PrintShareLogo.jpeg?raw=true" width="35%"/>
 
 ### Descripción del Diseño
 El logo está inspirado en la intersección entre tecnología y comunidad. La impresora representa el servicio fundamental, mientras los elementos de conexión (líneas, nodos) simbolizan la red colaborativa y la inteligencia distribuida. Los colores azul y verde representan confianza tecnológica e innovación sostenible.
