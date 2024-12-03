@@ -119,5 +119,52 @@ La estrategia se centra en crear expectativa, educar a la audiencia sobre el ser
   - Educativo: Explicar paso a paso el uso de la app
   - Engagement: Historias interactivas y sorteos
 
+### Imágenes Publicitarias
+
+### Anuncios con Mensajes Publicitarios
+
+## 1. Anuncio para la primera imagen:  
+**Servicios - "Imprime desde cualquier lugar"**
+
+- **Texto del anuncio:**  
+  "¿Necesitas imprimir rápido y cerca de ti? Con PrintShare, transforma tu smartphone en la clave para una red de impresoras siempre disponibles. Tecnología segura, impresión al instante."
+
+- **Cómo conecta con la imagen:**  
+  El mensaje refuerza el aspecto de conectividad y simplicidad mostrado en el gráfico futurista del mapa urbano. La frase destaca el uso tecnológico y conveniente de PrintShare, alineándose con el tono profesional y moderno.
+
+- **Call to Action (CTA):**  
+  "Descarga la app y conecta tu mundo a una red de impresión inteligente."
+
+---
+
+## 2. Anuncio para la segunda imagen:  
+**Estilo de vida - "Flexibilidad y colaboración"**
+
+- **Texto del anuncio:**  
+  "La creatividad no tiene límites, y ahora tampoco tu impresión. Encuentra impresoras donde estés y colabora con PrintShare, la red que une tus ideas con la impresión perfecta."
+
+- **Cómo conecta con la imagen:**  
+  El mensaje captura la esencia de la escena en la cafetería, mostrando flexibilidad y la capacidad de PrintShare para adaptarse al estilo de vida colaborativo de sus usuarios. Reafirma los valores de conexión y accesibilidad de la marca.
+
+- **Call to Action (CTA):**  
+  "Descubre cómo hacer que imprimir sea tan flexible como tú."
+
+---
+
+## 3. Anuncio para la tercera imagen:  
+**Economía compartida - "Imprime y gana"**
+
+- **Texto del anuncio:**  
+  "Convierte tu impresora en una fuente de ingresos. Con PrintShare, aprovecha al máximo tu equipo en tiempos de inactividad y genera ganancias con cada impresión."
+
+- **Cómo conecta con la imagen:**  
+  El mensaje pone en primer plano el beneficio económico mostrado en la escena familiar del hogar. Habla directamente a los propietarios de impresoras, destacando cómo pueden monetizar su equipo mientras apoyan a su comunidad.
+
+- **Call to Action (CTA):**  
+  "Únete a la economía compartida de la impresión con PrintShare."
+
+
+
+
 ## 📧 Contacto
 [Añadir información de contacto o redes sociales]
