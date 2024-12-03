@@ -34,19 +34,17 @@ En 5 años, PrintShare será la principal plataforma colaborativa de impresión 
 PrintShare es la única plataforma de impresión que convierte cada impresora en un recurso comunitario inteligente, permitiendo a usuarios y propietarios monetizar y optimizar dispositivos sub-utilizados. A diferencia de servicios tradicionales, ofrecemos una experiencia personalizada impulsada por IA que no solo resuelve necesidades de impresión, sino que crea una red colaborativa que beneficia económica y ambientalmente a toda la comunidad.
 
 ## 🎨 Imágenes Promocionales
-Imagen 1.
+-Imagen 1.
 
 <img src="https://raw.githubusercontent.com/wilchaparro/PrintShare/refs/heads/main/SharePrinterTTech_2.jpeg?raw=true" width="45%"/>
 - **Descripción**: Representa la accesibilidad de PrintShare, mostrando cómo el servicio conecta personas y tecnología en tiempo real. Refleja profesionalismo y simplicidad.
 
-
-Imagen 2.
+-Imagen 2.
 
 <img src="https://raw.githubusercontent.com/wilchaparro/PrintShare/refs/heads/main/SharePrinterTTech_1.jpeg?raw=true" width="45%"/>
 - **Descripción**: Representa la accesibilidad de PrintShare, mostrando cómo el servicio conecta personas y tecnología en tiempo real. Refleja profesionalismo y simplicidad.
 
-
-Imagen 3.
+-Imagen 3.
 
 <img src="https://raw.githubusercontent.com/wilchaparro/PrintShare/refs/heads/main/SharePrinterTTech_3.jpeg?raw=true" width="45%"/>
 - **Descripción**:Representa la accesibilidad de PrintShare, mostrando cómo el servicio conecta personas y tecnología en tiempo real. Refleja profesionalismo y simplicidad.
