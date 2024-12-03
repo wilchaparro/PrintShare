@@ -38,13 +38,13 @@ PrintShare es la única plataforma de impresión que convierte cada impresora en
 
 <img src="https://raw.githubusercontent.com/wilchaparro/PrintShare/refs/heads/main/SharePrinterTTech_2.jpeg?raw=true" width="45%"/>
 
-**Descripción**: Representa la accesibilidad de PrintShare, mostrando cómo el servicio conecta personas y tecnología en tiempo real. Refleja profesionalismo y simplicidad.
+- **Descripción**: Representa la accesibilidad de PrintShare, mostrando cómo el servicio conecta personas y tecnología en tiempo real. Refleja profesionalismo y simplicidad.
 
 -Imagen 2.
 
 <img src="https://raw.githubusercontent.com/wilchaparro/PrintShare/refs/heads/main/SharePrinterTTech_1.jpeg?raw=true" width="45%"/>
 
-**Descripción**: Representa la accesibilidad de PrintShare, mostrando cómo el servicio conecta personas y tecnología en tiempo real. Refleja profesionalismo y simplicidad.
+- **Descripción**: Representa la accesibilidad de PrintShare, mostrando cómo el servicio conecta personas y tecnología en tiempo real. Refleja profesionalismo y simplicidad.
 
 -Imagen 3.
 
