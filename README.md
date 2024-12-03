@@ -121,6 +121,13 @@ La estrategia se centra en crear expectativa, educar a la audiencia sobre el ser
 
 ### Imágenes Publicitarias
 
+<img src="https://raw.githubusercontent.com/wilchaparro/PrintShare/refs/heads/main/print%20app%20PrintShare.jpg?raw=true" width="35%"/>
+
+<img src="https://raw.githubusercontent.com/wilchaparro/PrintShare/refs/heads/main/caf%C3%A9%20collaborate%20with%20PrintShare.jpg?raw=true" width="35%"/>
+
+<img src="https://raw.githubusercontent.com/wilchaparro/PrintShare/refs/heads/main/family%20share%20their%20printer%20on%20PrintShare%20app.jpg?raw=true" width="35%"/>
+
+
 ### Anuncios con Mensajes Publicitarios
 
 ## 1. Anuncio para la primera imagen:  
